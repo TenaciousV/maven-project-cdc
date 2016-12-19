@@ -122,6 +122,11 @@
     <artifactId>derby</artifactId>
     <version>${derby.version}</version>
 </dependency>
+<dependency>
+    <groupId>org.apache.activemq</groupId>
+    <artifactId>activemq-all</artifactId>
+    <version>5.14.2</version>
+</dependency>
 		<!-- for testing -->
 		<dependency>
 			<groupId>org.mule.tests</groupId>
